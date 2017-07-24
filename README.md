@@ -1,2 +1,2 @@
-# bmo.copiona.com
+# http://bmo.copiona.com/
 web del proyecto bmo.copiona 
